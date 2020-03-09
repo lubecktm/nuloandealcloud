@@ -1,0 +1,366 @@
+    duns: 043053074,
+    dunsControlStatus: 
+        operatingStatus: 
+            description: Active,
+            dnbCode: 9074
+        ,
+        isMarketable: true,
+        isMailUndeliverable: false,
+        isTelephoneDisconnected: false,
+        isDelisted: false,
+        subjectHandlingDetails: [],
+        fullReportDate: 2020-01-04
+    ,
+    primaryName: Dealcloud, Inc.,
+    tradeStyleNames: [
+        
+            name: DealCloud,
+            priority: 1
+        
+    ],
+    websiteAddress: [
+        
+            url: www.dealcloud.com,
+            domainName: dealcloud.com
+        
+    ],
+    telephone: [
+        
+            telephoneNumber: 7044611970,
+            isdCode: 1,
+            isUnreachable: false
+        
+    ],
+    fax: [],
+    primaryAddress: 
+        language: ,
+        addressCountry: 
+            name: United States,
+            isoAlpha2Code: US,
+            fipsCode: US
+        ,
+        continentalRegion: 
+            name: North America
+        ,
+        addressLocality: 
+            name: Charlotte
+        ,
+        minorTownName: null,
+        addressRegion: 
+            name: North Carolina,
+            abbreviatedName: NC,
+            fipsCode: 37
+        ,
+        addressCounty: 
+            name: Mecklenburg,
+            fipsCode: 119
+        ,
+        postalCode: 28202-3393,
+        postalCodePosition: ,
+        streetNumber: null,
+        streetName: null,
+        streetAddress: 
+            line1: 300 S Tryon St Ste 1200,
+            line2: null
+        ,
+        postOfficeBox: ,
+        latitude: 35.225577,
+        longitude: -80.845464,
+        geographicalPrecision: 
+            description: Street Address Centroid,
+            dnbCode: 30257
+        ,
+        isRegisteredAddress: false,
+        isResidentialAddress: null,
+        statisticalArea: 
+            cbsaName: Charlotte-Concord-Gastonia NC-SC,
+            cbsaCode: 16740,
+            economicAreaOfInfluenceCode: 031,
+            populationRank: 
+                rankNumber: 9,
+                rankDnBCode: 10961,
+                rankDescription: 500,000 +
+            
+        ,
+        locationOwnership: ,
+        premisesArea: 
+            measurement: 6590,
+            unitDescription: Square Foot,
+            unitDnBCode: 3848,
+            reliabilityDescription: Modelled,
+            reliabilityDnBCode: 9094
+        ,
+        isManufacturingLocation: null
+    ,
+    registeredAddress: ,
+    mailingAddress: ,
+    stockExchanges: [],
+    thirdPartyAssessment: [],
+    registrationNumbers: [],
+    industryCodes: [
+        
+            code: 541511,
+            description: Custom Computer Programming Services,
+            typeDescription: North American Industry Classification System 2017,
+            typeDnBCode: 30832,
+            priority: 1
+        ,
+        
+            code: 1119,
+            description: Information Technology Services,
+            typeDescription: D&B Hoovers Industry Code,
+            typeDnBCode: 25838,
+            priority: 1
+        ,
+        
+            code: 7371,
+            description: Custom computer programing,
+            typeDescription: US Standard Industry Code 1987 - 4 digit,
+            typeDnBCode: 399,
+            priority: 1
+        ,
+        
+            code: 73710300,
+            description: Computer software development and applications,
+            typeDescription: D&B Standard Industry Code,
+            typeDnBCode: 3599,
+            priority: 1
+        ,
+        
+            code: I,
+            description: Services,
+            typeDescription: D&B Standard Major Industry Code,
+            typeDnBCode: 24657,
+            priority: 1
+        ,
+        
+            code: 6201,
+            description: Computer programming activities,
+            typeDescription: NACE Revision 2,
+            typeDnBCode: 29104,
+            priority: 1
+        
+    ],
+    businessEntityType: 
+        description: Corporation,
+        dnbCode: 451
+    ,
+    controlOwnershipDate: 2010,
+    startDate: 2010,
+    controlOwnershipType: ,
+    isAgent: null,
+    isImporter: null,
+    isExporter: null,
+    numberOfEmployees: [
+        
+            value: 35,
+            informationScopeDescription: Consolidated,
+            informationScopeDnBCode: 9067,
+            reliabilityDescription: Actual,
+            reliabilityDnBCode: 9092,
+            employeeCategories: [
+                
+                    employmentBasisDescription: Principals,
+                    employmentBasisDnBCode: 9064
+                
+            ],
+            trend: [
+                
+                    timePeriod: 
+                        description: 1-3 years,
+                        dnbCode: 13711
+                    ,
+                    growthRate: 1650
+                ,
+                
+                    timePeriod: 
+                        description: 1-5 years,
+                        dnbCode: 13721
+                    ,
+                    growthRate: 1650
+                
+            ]
+        
+    ],
+    financials: [
+        
+            financialStatementToDate: null,
+            financialStatementDuration: null,
+            informationScopeDescription: null,
+            informationScopeDnBCode: null,
+            reliabilityDescription: Modelled,
+            reliabilityDnBCode: 9094,
+            unitCode: Single Units,
+            accountantName: null,
+            yearlyRevenue: [
+                
+                    value: 7304535,
+                    currency: USD,
+                    trend: []
+                
+            ]
+        
+    ],
+    mostSeniorPrincipals: [
+        
+            givenName: Rick,
+            familyName: Kushnel,
+            fullName: Rick Kushnel,
+            namePrefix: null,
+            nameSuffix: null,
+            gender: null,
+            jobTitles: [
+                
+                    title: Chief Executive Officer
+                
+            ],
+            managementResponsibilities: [
+                
+                    description: Chief Executive Officer,
+                    mrcCode: A1A7
+                
+            ]
+        
+    ],
+    currentPrincipals: [
+        
+            givenName: LOKESH,
+            familyName: SETH,
+            fullName: LOKESH SETH,
+            namePrefix: null,
+            nameSuffix: null,
+            gender: null,
+            jobTitles: [
+                
+                    title: Chief Operating Officer
+                
+            ],
+            managementResponsibilities: [
+                
+                    description: Chief Operating Officer,
+                    mrcCode: A1A8
+                
+            ]
+        ,
+        
+            givenName: BEN,
+            familyName: HARRISON,
+            fullName: BEN HARRISON,
+            namePrefix: null,
+            nameSuffix: null,
+            gender: null,
+            jobTitles: [
+                
+                    title: Principal
+                
+            ],
+            managementResponsibilities: [
+                
+                    description: Principal,
+                    mrcCode: B1R2
+                
+            ]
+        
+    ],
+    socioEconomicInformation: 
+        isMinorityOwned: null,
+        isSmallBusiness: true
+    ,
+    isStandalone: false,
+    corporateLinkage: 
+        familytreeRolesPlayed: [
+            
+                description: Subsidiary,
+                dnbCode: 9159
+            ,
+            
+                description: Parent/Headquarters,
+                dnbCode: 9141
+            
+        ],
+        hierarchyLevel: 3,
+        globalUltimateFamilyTreeMembersCount: 13,
+        globalUltimate: 
+            duns: 074480023,
+            primaryName: Legalapp Holdings, Inc.,
+            primaryAddress: 
+                addressCountry: 
+                    name: United States,
+                    isoAlpha2Code: US,
+                    fipsCode: US
+                ,
+                continentalRegion: 
+                    name: North America
+                ,
+                addressLocality: 
+                    name: Palo Alto
+                ,
+                addressRegion: 
+                    name: California,
+                    abbreviatedName: CA
+                ,
+                postalCode: 94306-2242,
+                streetAddress: 
+                    line1: 200 Portage Ave,
+                    line2: null
+                
+            
+        ,
+        domesticUltimate: 
+            duns: 074480023,
+            primaryName: Legalapp Holdings, Inc.,
+            primaryAddress: 
+                addressCountry: 
+                    name: United States,
+                    isoAlpha2Code: US,
+                    fipsCode: US
+                ,
+                continentalRegion: 
+                    name: North America
+                ,
+                addressLocality: 
+                    name: Palo Alto
+                ,
+                addressRegion: 
+                    name: California,
+                    abbreviatedName: CA
+                ,
+                postalCode: 94306-2242,
+                streetAddress: 
+                    line1: 200 Portage Ave,
+                    line2: null
+                
+            
+        ,
+        parent: 
+            duns: 805622128,
+            primaryName: Integration Appliance, Inc.,
+            primaryAddress: 
+                addressCountry: 
+                    name: United States,
+                    isoAlpha2Code: US,
+                    fipsCode: US
+                ,
+                continentalRegion: 
+                    name: North America
+                ,
+                addressLocality: 
+                    name: Palo Alto
+                ,
+                addressRegion: 
+                    name: California,
+                    abbreviatedName: CA
+                ,
+                postalCode: 94306-2233,
+                streetAddress: 
+                    line1: 3101 Park Blvd,
+                    line2: null
+                
+            
+        ,
+        headQuarter: 
+    ,
+    dnbAssessment: 
+        marketingRiskClass: 
+            description: Low,
+            dnbCode: 10925
